@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songlist.css"?>
+<SongList>
+    <song>
+        <artist>Kendrick Lamar</artist>
+        <title>DNA</title>
+        <genre>HipHop</genre>
+        <year>2017</year>
+    </song>
+     
+     <song>
+        <artist>Kendrick Lamar</artist>
+        <title>Alright</title>
+        <genre>HipHop</genre>
+        <year>2015</year>
+    </song>
+
+    <song>
+        <artist>Kanye West</artist>
+        <title>Wolves</title>
+        <genre>HipHop</genre>
+        <year>2016</year>
+    </song>
+
+    <song>
+        <artist>Michael Jackson</artist>
+        <title>Man In The Mirror</title>
+        <genre>Rhythm And Blues</genre>
+        <year>1988</year>
+    </song>
+
+    <song>
+        <artist>Justin Timberlake</artist>
+        <title>Mirrors</title>
+        <genre>Pop</genre>
+        <year>2013</year>
+    </song>
+
+    <song>
+        <artist>Lil Wayne</artist>
+        <title>Mirror</title>
+        <genre>Hip Hop</genre>
+        <year>2012</year>
+    </song>
+
+    <song>
+        <artist>BTS</artist>
+        <title>Dynamite</title>
+        <genre>Pop</genre>
+        <year>2020</year>
+    </song>
+
+    <song>
+        <artist>Aerosmith</artist>
+        <title>Dream On</title>
+        <genre>Rock</genre>
+        <year>1973</year>
+    </song>
+
+    <song>
+        <artist>The Beatles</artist>
+        <title>Let It Be</title>
+        <genre>Rock</genre>
+        <year>1970</year>
+    </song>
+
+    <song>
+        <artist>Idina Menzel</artist>
+        <title>Let It Go</title>
+        <genre>Pop</genre>
+        <year>2013</year>
+    </song>
+
+</SongList>
